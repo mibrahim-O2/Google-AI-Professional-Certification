@@ -86,3 +86,38 @@ If you work in sales, try asking for a list of potential clients and then drafti
 If you work in operations, try identifying a workflow bottleneck and then requesting a step-by-step solution to fix it.
 
 Go from viewing AI as a task completer to collaborating with it as a brainstorming partner, using conversation to turn abstract thoughts into concrete plans.
+
+
+Practice prompt chaining in Gemini
+We recommend signing into Gemini with your Google Account so you can use additional features and save your Gemini activity.
+
+This lab shows you how to use prompt chaining, a technique that helps you break down large projects or tasks into a series of smaller, connected steps.
+
+The following prompts use a painting company as an example, but you can customize them to fit your own work.
+
+Lab tasks:
+Step 1: Brainstorm options
+Click the “New chat” button to start a new chat with Gemini. Then, paste the prompt below and replace the text in [brackets] with your own details.
+
+I want to expand my [company description, e.g. painting company]'s service offerings. Act as my business advisor and list 3 complementary services we could provide. Keep in mind: [context and constraints, e.g. we have a team of 4 painters and tight office space].
+
+Read Gemini’s response. The next steps will build on this foundation.
+
+Step 2: Evaluate the options
+In the same chat with Gemini, ask questions to evaluate the options Gemini provided in the previous step. You can ask about specific criteria or potential challenges. For example:
+
+Which of these can we launch within 6 months?
+
+Read Gemini’s response. The next steps will build on this foundation.
+
+Step 3: Create an action plan
+In the same chat with Gemini, paste the prompt below and replace the text in [brackets] with your own details.
+
+If I want to move forward with [1 option from Gemini’s response in the previous step], what tasks should I complete this week?
+
+Use Gemini's response to build your task list for the week.
+
+Next steps: 
+Consider how you can use Gemini to complete a larger task for your work. Sometimes, it’s best to take that task and break it down into multiple smaller tasks.
+
+When you are satisfied with your outputs from this lab, you can close this page and return to the main screen of this course.
