@@ -207,6 +207,60 @@ Click the “Send prompt” button and the model will read your visual feedback 
 
 Once the model has updated the app. observe how it has changed the specific elements you pointed out (like the "KPI cards") and applies the visual changes without you needing to explain the technical details.
 
+Build with AI: A custom app to help you at work
+To use the features covered in this lab, sign into AI Studio using your Google Account.
+
+As you follow the video instructions in this lab, customize the prompts below to fit your own work.
+
+Feel free to pause the video as needed.
+
+Lab tasks:
+Optional step: Identify a task where an app could provide value
+If you haven’t already, complete the 
+worksheet
+ from a previous reading. 
+
+Once you’ve identified a task where an app could provide value, define what your app will take in, what it will do with that input, and how it will present the result. 
+
+Express it using this template: “My app takes [inputs] and does [process] to create [output] that helps me [goal].”
+
+If you need help, open a new tab and navigate to the Gemini app by entering the URL 
+gemini.google.com
+. Then, try the following prompt in Gemini:
+
+I’m a [your role, e.g. social media manager]. I often find myself [task from the worksheet, e.g. drafting posts and creative visuals around holidays]. I want to build an app that makes this easier. It must be simple, standalone, and not dependent on external databases or systems. Suggest 3-5 ideas. Format each using this template: "My app takes {{inputs}} and does {{process}} to create {{output}} that helps me {{goal}}."
+
+Step 1: Describe the app you want to build
+In AI Studio, navigate to the “Build” tab. Paste the prompt below into the prompt field and replace the text in [brackets]. If you completed the previous optional step, use that output here. 
+
+I want to build an app that takes [inputs] and does [process] to create [output] that helps me [goal].
+
+AI Studio will generate the first version of your app. It might take a few minutes for the app to complete. Review the app and test it with your own data.
+
+Step 2: Iterate on your app
+In the same AI Studio build session iterate on your app. You can paste the prompt below into the chat field to add new features to make your app more useful or adjust what it can do. Replace the text in [brackets] with your own details.
+
+Add [element, e.g. a button] that [purpose, e.g. copies all the content so I can paste it into a spreadsheet].
+
+You can repeat this step as many times as you’d like to add more features to your app. Provide relevant instructions each time.
+
+Step 3: Change your app's visual style
+In the same AI Studio build session, paste the prompt below into the chat field to change the app's appearance. Replace the text in [brackets] with your own details.
+
+Change the [visual property, e.g. the color scheme] of the app to use [style description, e.g. shades of blue].
+
+You can repeat this step as many times as you’d like to make the app look like what you want. Provide relevant instructions or references each time.
+
+Step 4: Share your app
+To share your app, click the “Share” button. Flip the switch on “Publish your app” to make it available at the URL shown on this screen. You can share this URL with teammates so they can use your app.
+
+Once published, your app is public. Remember, you are responsible for the outputs it produces and should be prepared to maintain its functionality for your users.
+
+Next steps: 
+Congratulations! Refer back to your worksheet and see if you can find other workflows that might benefit from vibe coding an app.
+
+When you are satisfied with your outputs from this lab, you can close this page and return to the main screen of this cert. 
+
 Next steps:
 Now that you’ve built this app, think about how you can customize it further. For example, you could add a file uploading function, so that anyone can upload any CSV file to get instant visualizations. Or, you could also add an “AI Insights” button to get a summary of the biggest trends found in the data.
 
