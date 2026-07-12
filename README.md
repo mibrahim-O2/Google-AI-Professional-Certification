@@ -31,9 +31,9 @@ I built a robust portfolio of **20+ AI artifacts** and developed a custom AI sol
   - [Generate Visuals with AI](#generate-visuals-with-ai)
   - [Prompt Chaining Strategies](#prompt-chaining-strategies)
   - [Prompting Tips and Tricks](#prompting-tips-and-tricks)
+  - [Prompting Frameworks](#prompting-frameworks)
   - [Responsible AI Best Practices](#responsible-ai-best-practices)
   - [Vibecoding AI for App Building](#vibecoding-ai-for-app-building)
-  - 
 - [Skills Gained](#skills-gained)
 - [Benefits in the New Tech Era](#benefits-in-the-new-tech-era)
 - [Certificate Verification](#certificate-verification)
