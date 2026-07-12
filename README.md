@@ -13,6 +13,32 @@
 **Status:** Successfully Completed
 
 ---
+## Overview
+
+As a Computer Science student, I have successfully earned the **Google AI Professional Certificate**. This intensive program equipped me with practical, job-ready AI skills through **7 comprehensive courses**, enabling me to effectively apply artificial intelligence across brainstorming, research, content creation, data analysis, and application development.
+
+I built a robust portfolio of **20+ AI artifacts** and developed a custom AI solution while mastering responsible AI practices. This certification showcases my ability to leverage modern AI tools to solve real-world problems efficiently a vital competency in today’s rapidly evolving technology landscape.
+
+---
+
+## Table of Contents
+
+- [Courses Completed](#courses-completed)
+- [Portfolio Projects & Artifacts](#portfolio-projects--artifacts)
+  - [Brainstorm and Evaluate Ideas to Make Faster Decisions](#brainstorm-and-evaluate-ideas-to-make-faster-decisions)
+  - [Build Presentation Slides with AI](#build-presentation-slides-with-ai)
+  - [Build with AI Research Report](#build-with-ai-research-report)
+  - [Generate Visuals with AI](#generate-visuals-with-ai)
+  - [Prompt Chaining Strategies](#prompt-chaining-strategies)
+  - [Prompting Tips and Tricks](#prompting-tips-and-tricks)
+  - [Responsible AI Best Practices](#responsible-ai-best-practices)
+  - [Vibecoding AI for App Building](#vibecoding-ai-for-app-building)
+- [Skills Gained](#skills-gained)
+- [Benefits in the New Tech Era](#benefits-in-the-new-tech-era)
+- [Certificate Verification](#certificate-verification)
+
+---
+
 
 Mastering AI Prompting: My Journey to Effective AI Collaboration
 
