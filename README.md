@@ -1,4 +1,10 @@
-# Google-AI-Professional-Certification-Coursera
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=180&section=header&text=Google%20AI%20Professional%20Certificate&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="certificate.png" alt="certificate" width="500">
+</p>
 
 Mastering AI Prompting: My Journey to Effective AI Collaboration
 
