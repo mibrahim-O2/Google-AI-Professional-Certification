@@ -84,3 +84,9 @@ Provide examples or references to clarify your needs.
 Use multimodal inputs like documents or images to enhance AI understanding.
 Keep one chat per topic to avoid confusion and maintain context continuity.
 This approach helps you collaborate with AI more effectively, moving from simple commands to ongoing, valuable conversations.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <br/>
+  <sub><b>Successfully completed the Google AI Professional Certificate</b> • Learning Journey • 2026</sub>
+</div>
