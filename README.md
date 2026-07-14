@@ -73,6 +73,16 @@ I focused on audience engagement by incorporating AI-generated visuals, speaker 
 
 ---
 
+### Build with AI Research Report
+
+This comprehensive research report was entirely built using AI-augmented methodologies. I conducted in-depth research, synthesized findings from multiple sources, and generated well-structured academic content with proper citations and analysis.
+
+The project demonstrates advanced use of AI for literature review, data synthesis, and coherent report writing. I maintained critical thinking by evaluating AI outputs and refining them with domain knowledge.
+
+**View more details:** [Build with AI Research report.md](./Build%20with%20AI%20Research%20report.md)
+
+---
+
 
 
 --- 
