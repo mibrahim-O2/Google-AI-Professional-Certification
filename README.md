@@ -40,7 +40,23 @@ I built a robust portfolio of **20+ AI artifacts** and developed a custom AI sol
 
 ---
 
- 
+## Courses Completed
+
+- AI Fundamentals
+- AI for Brainstorming and Planning
+- AI for Research and Insights
+- AI for Writing and Communicating
+- AI for Content Creation
+- AI for Data Analysis
+- AI for App Building
+---
+
+
+
+
+
+
+--- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%"/>
   <br/>
