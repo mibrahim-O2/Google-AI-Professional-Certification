@@ -110,7 +110,17 @@ I included comparative examples showing how small changes in prompts lead to dra
 
 **View more details:** [Prompting tips and tricks.md](./Prompting%20tips%20and%20tricks.md)
 
+---
 
+### Prompting Frameworks
+
+This project delves into structured prompting frameworks that form the foundation of effective AI collaboration. It presents systematic approaches including the **Persona-Task-Format-Context** model and other proven frameworks for consistent, high-quality AI interactions.
+
+I explored how different frameworks can be applied across various scenarios — from creative brainstorming to technical problem-solving. The artifact includes practical templates, use-case examples, and comparative analysis of framework effectiveness. This work demonstrates my deep understanding of structured prompting methodologies taught in the Google AI Professional Certificate.
+
+**View more details:** [Prompting Frameworks.md](./Prompting%20Frameworks.md)
+
+---
 --- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%"/>
