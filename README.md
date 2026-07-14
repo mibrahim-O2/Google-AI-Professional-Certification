@@ -121,6 +121,17 @@ I explored how different frameworks can be applied across various scenarios — 
 **View more details:** [Prompting Frameworks.md](./Prompting%20Frameworks.md)
 
 ---
+
+### Responsible AI Best Practices
+
+This project emphasizes ethical AI usage, bias mitigation, privacy considerations, and transparency. I documented frameworks for evaluating AI outputs for fairness, accuracy, and potential harm.
+
+The artifact includes case studies from my own experiments and guidelines for responsible deployment of AI tools in academic and professional environments.
+
+**View more details:** [Responsible AI best practices.md](./Responsible%20AI%20best%20practices.md)
+
+---
+
 --- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%"/>
