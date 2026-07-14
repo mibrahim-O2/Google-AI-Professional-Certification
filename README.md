@@ -83,6 +83,15 @@ The project demonstrates advanced use of AI for literature review, data synthesi
 
 ---
 
+### Generate Visuals with AI
+
+This project focuses on creating high-quality visuals, diagrams, infographics, and illustrations using AI image generation tools. I developed effective prompting strategies to produce visuals that accurately represent complex technical concepts in Computer Science.
+
+The artifact includes before-and-after comparisons and iteration techniques to achieve desired results. All visuals were generated responsibly while respecting copyright and ethical guidelines.
+
+**View more details:** [Generate visuals with AI.md](./Generate%20visuals%20with%20AI.md)
+
+---
 
 
 --- 
