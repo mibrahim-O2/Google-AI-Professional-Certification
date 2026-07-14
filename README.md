@@ -93,6 +93,17 @@ The artifact includes before-and-after comparisons and iteration techniques to a
 
 ---
 
+### Prompt Chaining Strategies
+
+This artifact explores advanced **prompt chaining** techniques — breaking complex tasks into sequential, interconnected prompts. I documented various chaining patterns, tested their effectiveness on different AI models, and analyzed performance improvements.
+
+The project includes real examples of multi-step reasoning tasks, error handling in chains, and optimization strategies. It serves as a practical guide for advanced AI users.
+
+**View more details:** [Prompt chaining strategies.md](./Prompt%20chaining%20strategies.md)
+
+---
+
+
 
 --- 
 <div align="center">
