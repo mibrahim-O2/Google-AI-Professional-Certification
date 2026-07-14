@@ -49,9 +49,20 @@ I built a robust portfolio of **20+ AI artifacts** and developed a custom AI sol
 - AI for Content Creation
 - AI for Data Analysis
 - AI for App Building
+
 ---
 
+## Portfolio Projects & Artifacts
 
+### Brainstorm and Evaluate Ideas to Make Faster Decisions
+
+This project demonstrates how I used AI tools to rapidly generate, organize, and evaluate multiple ideas for complex problems. I developed structured prompting techniques to produce diverse solutions and implemented evaluation frameworks based on feasibility, impact, and innovation.
+
+The workflow significantly reduced decision-making time while maintaining high-quality outputs. I created comparison matrices and scoring systems powered by AI to rank ideas objectively. This artifact highlights my ability to combine human creativity with AI efficiency for better outcomes in academic and professional settings.
+
+**View more details:** [Brainstorm and evaluate ideas to make faster decisions.md](./Brainstorm%20and%20evaluate%20ideas%20to%20make%20faster%20decisions.md)
+
+---
 
 
 
