@@ -63,7 +63,15 @@ The workflow significantly reduced decision-making time while maintaining high-q
 **View more details:** [Brainstorm and evaluate ideas to make faster decisions.md](./Brainstorm%20and%20evaluate%20ideas%20to%20make%20faster%20decisions.md)
 
 ---
+### Build Presentation Slides with AI
 
+In this artifact, I leveraged AI to design and generate complete presentation decks from scratch. The process involved transforming raw ideas and research notes into visually appealing, well-structured slides with consistent design language.
+
+I focused on audience engagement by incorporating AI-generated visuals, speaker notes, and logical flow optimization. This project showcases my capability to produce professional-quality presentations quickly using AI assistance while maintaining creative control.
+
+**View more details:** [Build Presentation slides with AI.md](./Build%20Presentation%20slides%20with%20AI.md)
+
+---
 
 
 
