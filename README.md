@@ -132,6 +132,14 @@ The artifact includes case studies from my own experiments and guidelines for re
 
 ---
 
+### Vibecoding AI for App Building
+
+"Vibecoding" showcases my approach to building functional applications using AI as a collaborative coding partner. This artifact includes a complete mini-application developed through iterative AI-assisted coding sessions.
+
+I demonstrated full-stack thinking by combining AI for code generation, debugging, UI/UX suggestions, and testing. The project highlights rapid prototyping capabilities while maintaining code quality.
+
+**View more details:** [Vibecoding AI for App Building.md](./Vibecoding%20AI%20for%20App%20Building.md)
+
 --- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%"/>
