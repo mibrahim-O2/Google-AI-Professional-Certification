@@ -102,7 +102,13 @@ The project includes real examples of multi-step reasoning tasks, error handling
 **View more details:** [Prompt chaining strategies.md](./Prompt%20chaining%20strategies.md)
 
 ---
+### Prompting Tips and Tricks
 
+A detailed collection of proven prompting techniques, templates, and best practices I developed and refined throughout the program. This guide covers role-playing, few-shot learning, chain-of-thought, and context management strategies.
+
+I included comparative examples showing how small changes in prompts lead to dramatically better outputs. This resource is designed to help other students and developers improve their interaction with large language models efficiently.
+
+**View more details:** [Prompting tips and tricks.md](./Prompting%20tips%20and%20tricks.md)
 
 
 --- 
