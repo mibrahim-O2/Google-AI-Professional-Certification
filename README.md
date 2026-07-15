@@ -139,6 +139,19 @@ The artifact includes case studies from my own experiments and guidelines for re
 I demonstrated full-stack thinking by combining AI for code generation, debugging, UI/UX suggestions, and testing. The project highlights rapid prototyping capabilities while maintaining code quality.
 
 **View more details:** [Vibecoding AI for App Building.md](./Vibecoding%20AI%20for%20App%20Building.md)
+---
+
+## Skills Gained
+
+- Advanced Prompt Engineering & Chaining
+- AI-Assisted Research and Analysis
+- Responsible & Ethical AI Practices
+- Rapid Content & Visual Creation
+- AI-Powered Application Development
+- Critical Evaluation of AI Outputs
+- Professional Documentation & Presentation
+
+---
 
 --- 
 <div align="center">
