@@ -161,6 +161,11 @@ The practical skills gained here complement my Computer Science education, prepa
 
 ---
 
+## Certificate Verification
+
+**Official Link:**  
+[Verify Certificate](https://coursera.org/verify/professional-cert/GNOZWBWKJ7DQ)
+
 --- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%"/>
