@@ -42,3 +42,19 @@ Review the ideas from Gemini. You will analyze them in the next step.
 ### Step 2: Create a Cost-Benefit Analysis Table
 
 In the same chat with Gemini, paste the prompt below to compare the options generated in the previous step. You can customize the columns of your table for your analysis.
+
+Perform a [type of analysis, e.g. cost-benefit analysis] for each of these ideas. Format your response as a table with the following columns:
+
+[Column 1 name, e.g. Idea]
+[Column 2 name, e.g. Cost (low/medium/high)]
+[Column 3 name, e.g. Benefit (low/medium/high)]
+
+Use the table created by Gemini to identify the options that provide high benefit at a low cost.
+
+---
+
+### Step 3: Research Industry Trends
+
+In the same chat with Gemini, paste the prompt below to get more context for your decision.
+
+
