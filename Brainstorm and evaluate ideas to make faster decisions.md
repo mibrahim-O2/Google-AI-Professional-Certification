@@ -11,3 +11,25 @@ In this lab, Owen from Google Marketing will show you how to use Gemini to help 
 | **Industry awareness** | Stay up-to-date on the latest research with automated reporting |
 
  
+## Apply What You Learn
+
+In the lab, we'll demonstrate how to brainstorm accessories for a headphone product launch. However, our techniques work for a variety of projects, like evaluating campaign concepts, prioritizing feature requests, or exploring new market opportunities.
+
+> **Tip:** As you follow along, consider which prompts you'd adapt for the decisions sitting on your desk right now.
+
+---
+
+## Build with AI: Strategic Plan
+
+> **Note:** To use the features covered in this lab, sign into Gemini using your Google Account.
+
+As you follow the video instructions in this lab, customize the prompts below to fit your own work. Feel free to pause the video as needed.
+
+---
+
+## Lab Tasks
+
+### Step 1: Brainstorm New Product Ideas
+
+Click the **"New chat"** button on the left side menu to start a new chat with Gemini. Then, paste the prompt below and replace the text in `[brackets]` with your own details.
+
