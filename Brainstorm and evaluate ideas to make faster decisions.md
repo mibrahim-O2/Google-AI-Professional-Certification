@@ -33,3 +33,12 @@ As you follow the video instructions in this lab, customize the prompts below to
 
 Click the **"New chat"** button on the left side menu to start a new chat with Gemini. Then, paste the prompt below and replace the text in `[brackets]` with your own details.
 
+You are a [persona, e.g. marketing expert] in the [industry, e.g. audio industry]. My company is developing a [new product, e.g. new line of premium headphones]. Help me brainstorm [items to brainstorm, e.g. accessories or add-ons] that I could [purpose, e.g. bundle with this product].
+
+Review the ideas from Gemini. You will analyze them in the next step.
+
+---
+
+### Step 2: Create a Cost-Benefit Analysis Table
+
+In the same chat with Gemini, paste the prompt below to compare the options generated in the previous step. You can customize the columns of your table for your analysis.
