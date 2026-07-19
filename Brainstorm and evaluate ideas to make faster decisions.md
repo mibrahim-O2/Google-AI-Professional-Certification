@@ -57,4 +57,14 @@ Use the table created by Gemini to identify the options that provide high benefi
 
 In the same chat with Gemini, paste the prompt below to get more context for your decision.
 
+What are some current industry trends around [your product or industry]? I'd like to factor those insights into my decision.
 
+Review the trends from Gemini. You will automate this research in the next step.
+
+---
+
+### Step 4: Schedule a Recurring Analysis
+
+In the same chat with Gemini, paste the prompt below to schedule the previous query to run automatically.
+
+Run this analysis [desired frequency, e.g. once a week] so I can stay up to date on these trends.
