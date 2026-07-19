@@ -68,3 +68,17 @@ Review the trends from Gemini. You will automate this research in the next step.
 In the same chat with Gemini, paste the prompt below to schedule the previous query to run automatically.
 
 Run this analysis [desired frequency, e.g. once a week] so I can stay up to date on these trends.
+
+After Gemini confirms the action, you can select **"Edit"** to change the name or adjust the schedule.
+
+> **Note:** Outputs from your scheduled action will appear in your conversation list on the left-hand panel. To edit your scheduled action at a later time, select **"Settings & help"**, then select **"Scheduled actions"** on the menu to open your list of scheduled actions.
+
+---
+
+## Next Steps
+
+Consider how you can use Gemini to help you evaluate ideas. Remember that Gemini can guide your assessment with any type of analysis, including ways that you frequently use when comparing different options in your own work.
+
+When you are satisfied with your outputs from this lab, you can close this page and return to the main screen of this course.
+
+---
