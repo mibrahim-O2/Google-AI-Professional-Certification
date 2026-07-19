@@ -45,9 +45,9 @@ In the same chat with Gemini, paste the prompt below to compare the options gene
 
 Perform a [type of analysis, e.g. cost-benefit analysis] for each of these ideas. Format your response as a table with the following columns:
 
-[Column 1 name, e.g. Idea]
-[Column 2 name, e.g. Cost (low/medium/high)]
-[Column 3 name, e.g. Benefit (low/medium/high)]
+1. [Column 1 name, e.g. Idea]
+2. [Column 2 name, e.g. Cost (low/medium/high)]
+3. [Column 3 name, e.g. Benefit (low/medium/high)]
 
 Use the table created by Gemini to identify the options that provide high benefit at a low cost.
 
